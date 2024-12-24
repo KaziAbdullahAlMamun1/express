@@ -6,7 +6,7 @@ Cumulus is a crossplatform "rendezvous" service to assist P2P connection in RTMF
 Cumulus can be used as a library to include in your "publisher" software, or be installed as a service on your server computer.
 
 We remind you that Cumulus is licensed under the [GNU General Public License], so **CumulusLib can't be linked with any closed source project** (see [license]).
-
+#my name is anonymous . hello guys.
 Status
 ------------------------------------
 Cumulus is in development, much work remains to be done.
